@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Pablo Mira 👨‍💻
 
-<!--
-**PabloMira1/PabloMira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero Informático y Desarrollador Junior
 
-Here are some ideas to get you started:
+Me enfoco en transformar requisitos complejos en soluciones de software limpias y bien estructuradas. Mi formación como Ingeniero Informático, combinada con mi visión de **Arquitecto Desarrollador Java**, me permite abordar proyectos desde el diseño de la arquitectura hasta la implementación final.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack Tecnológico Principal 🚀
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend / Core** | Java, Spring Boot, Node.js |
+| **Frontend / UI** | Angular |
+| **Bases de Datos** | SQL y NoSQL |
+| **Diseño** | Patrones de Arquitectura y Microservicios |
+
+---
+
+### 🔎 ¿Qué estoy buscando?
+
+* Oportunidades desafiantes para aplicar y expandir mis conocimientos en **Java/Spring Boot** y **Angular**.
+* Colaborar en proyectos que me permitan crecer en mi rol de desarrollador junior.
+* Conectar con otros profesionales de la tecnología y la arquitectura de software.
+
+### 📫 Contacto
+
+[Tu LinkedIn] | [Tu Email]
