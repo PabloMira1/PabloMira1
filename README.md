@@ -25,4 +25,6 @@ Me enfoco en transformar requisitos complejos en soluciones de software limpias 
 
 ### 📫 Contacto
 
-[Tu LinkedIn] | [Tu Email]
+[www.linkedin.com/in/pablo-mira-barrera-60ba57304] | [pablomirab03@gmail.com]
+
+
